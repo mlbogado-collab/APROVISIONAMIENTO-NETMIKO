@@ -203,10 +203,7 @@ show running-config
 
 ## Topología de Red
 
-```
- dejar igual
-```
-
+![topologia](topologia.png)
 ---
 
 ## Descripción General
